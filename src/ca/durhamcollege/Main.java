@@ -1,10 +1,10 @@
 package ca.durhamcollege;
 
-public class Main {
-    public static void main(String[] args){
-        //write code here
-
-        System.out.println("Hello, World");
-
+public class Main
+{
+    public static void main(String[] args)
+    {
+       Person person = new Person("Tom", 40);
+       person.saysHello();
     }
 }
