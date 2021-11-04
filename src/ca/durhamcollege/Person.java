@@ -1,3 +1,11 @@
+/** Person.java
+ * @author Katherine Bellman , studentID: 100325825
+ * @version 0.0.1
+ *
+ * @date November 3rd 2021
+ *
+ * @Note: ICE 7 Introduction to Java
+ */
 package ca.durhamcollege;
 
 public class Person
@@ -66,7 +74,6 @@ public class Person
     /**
      *This method tests the Person class and
      * returns a simple message to the console
-     * @return {Void}
      */
     public void saysHello()
     {
@@ -74,7 +81,7 @@ public class Person
     }
 
     /**
-     * This method overides the built-in
+     * This method overrides the built-in
      * toString method and returns the Person
      * properties
      *
